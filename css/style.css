@@ -31,7 +31,7 @@ ul{
 
 
 #search-header{
-    background-image: url('./images/123.svg');
+    background-image: url('../images/123.svg');
     background-size: cover;
     background-position: center;
     height: 700px;
